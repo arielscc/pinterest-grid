@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?p7lrju');
-  src:  url('fonts/icomoon.eot?p7lrju#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?p7lrju') format('truetype'),
-    url('fonts/icomoon.woff?p7lrju') format('woff'),
-    url('fonts/icomoon.svg?p7lrju#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?7m6tck');
+  src:  url('fonts/icomoon.eot?7m6tck#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?7m6tck') format('truetype'),
+    url('fonts/icomoon.woff?7m6tck') format('woff'),
+    url('fonts/icomoon.svg?7m6tck#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -37,6 +37,15 @@
 .icon-arrow-top-right:before {
   content: "\e905";
 }
+.icon-plus:before {
+  content: "\e907";
+}
+.icon-add:before {
+  content: "\e907";
+}
+.icon-sum:before {
+  content: "\e907";
+}
 .icon-alarm:before {
   content: "\e904";
 }
@@ -44,11 +53,11 @@
   content: "\e900";
   color: #bd081c;
 }
-.icon-dots-three-horizontal:before {
-  content: "\e902";
-}
 .icon-search:before {
   content: "\e901";
+}
+.icon-help:before {
+  content: "\e908";
 }
 .icon-dots-three-horizontal:before {
   content: "\e902";
